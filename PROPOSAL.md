@@ -2,8 +2,8 @@
 an Igbo word meaning community.
 ***
 (Track 1 - Problem Statement 2)
-#### _"Rapid SOS / Providing immediate assistance during emergencies when the emergency services can't reach on time._
-_Waiting for first responders to arrive is not always an option. When the situation gets dire, effective communication and support become essential to tackle the emergency. Can your innovation make a difference in these matters of life or death?_"
+#### _"Rapid SOS / Providing immediate assistance during emergencies when the emergency services can't reach on time._"
+_Waiting for first responders to arrive is not always an option. When the situation gets dire, effective communication and support become essential to tackle the emergency. Can your innovation make a difference in these matters of life or death?_
 
 We believe it can.
 Our species has endured 5 million years of life and the only way we've done this is by sticking together.
