@@ -16,6 +16,7 @@ app.use(session({
     resave: true,
     saveUninitialized: true
 }));
+
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
@@ -26,8 +27,8 @@ app.get('/', function (request, response) {
 app.post('/auth', function (request, response) {
     let email = request.body.email;
     if (email) {
-        console.log(email);
-    }
+        
+    }   
 });
 
 app.listen(8080);
