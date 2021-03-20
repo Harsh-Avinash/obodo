@@ -18,6 +18,16 @@ body * {
     font-size: 3em;
 }
 
+.small {
+    color: #EC7016;
+    font-size: 1.2em;
+    border-bottom: 1px solid #EC7016;
+}
+
+#register {
+    cursor: pointer;
+}
+
 #initial-login {
     width: 100%;
     height: 100%;
@@ -29,6 +39,12 @@ body * {
 #initial-login input[type='submit'] {
     margin: 5px;
     font-weight: bold;
+}
+
+#initial-login input[type='submit']:disabled {
+    margin: 5px;
+    font-weight: bold;
+    filter: grayscale(100%);
 }
 
 input {
@@ -47,7 +63,7 @@ input {
         border: 2px solid #EC7016;
     }
 
-    input:hover:not(:active) {
+    input:enabled:hover {
         border: 2px solid #EC7016;
     }
 }
@@ -65,7 +81,7 @@ h1 {
     color: #F8931D;
 }
 
-.login-form {
+#login-form {
     border: 2px solid #555555;
     border-radius: 10px;
     padding-top: 4em;

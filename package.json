@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/shantaram3013/obodo#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
+    "serve-favicon": "^2.5.0",
     "sqlite3": "^5.0.2"
   }
 }
