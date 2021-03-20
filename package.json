@@ -4,7 +4,8 @@
   "description": "A webapp to allow you to make quick requests for assistance to community members in the case of an emergency.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/shantaram3013/obodo/issues"
   },
-  "homepage": "https://github.com/shantaram3013/obodo#readme"
+  "homepage": "https://github.com/shantaram3013/obodo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "nodemailer": "^6.5.0",
+    "sqlite3": "^5.0.2"
+  }
 }

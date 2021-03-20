@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#initial-login {
+    display: flex;
+    flex-direction: column;
+}
