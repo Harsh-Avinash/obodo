@@ -11,7 +11,7 @@ Our species has endured 5 million years of life and the only way we've done this
 **Enter Obodo**. It can help tackle challenging, time-bound situations by leveraging our innate human desire to help those around us.
 
 How it works:
-1) Sign up to the app using our innovative OTP-only login system.
+1) Sign up to the app.
 2) Register your location and other relevant information.
 3) When in need, make a post to your circle!
 4) Others in your area are notified and can choose to respond to your location.
