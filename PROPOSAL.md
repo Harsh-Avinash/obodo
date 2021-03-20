@@ -13,7 +13,7 @@ Our species has endured 5 million years of life and the only way we've done this
 How it works:
 1) Sign up to the app.
 2) Register your location and other relevant information.
-3) When in need, make a post to your circle!
+3) When in need, make a post to your circle!!
 4) Others in your area are notified and can choose to respond to your location.
 
 A situation could be as minor as a cat stuck in a tree (something that needs to be dealt with and you need help for, but not necessarily needing to involve the authorities), or as major as a patient needing an ambulance but traffic obstructing it. At Obodo, we believe everyone deserves the chance to be helped in their time of need, to be a part of something larger than themselves and to give back to their community.
