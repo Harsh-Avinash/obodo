@@ -1,0 +1,19 @@
+{
+  "name": "obodo",
+  "version": "1.0.0",
+  "description": "A webapp to allow you to make quick requests for assistance to community members in the case of an emergency.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantaram3013/obodo.git"
+  },
+  "author": "Noobgrammers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shantaram3013/obodo/issues"
+  },
+  "homepage": "https://github.com/shantaram3013/obodo#readme"
+}
