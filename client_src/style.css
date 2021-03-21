@@ -31,9 +31,8 @@ body * {
 #initial-login {
     width: 100%;
     height: 100%;
-
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 #initial-login input[type='submit'] {
@@ -91,9 +90,9 @@ h1 {
     background: #303030;
 }
 
-@media only screen and (max-aspect-ratio: 1/1) {
+@media only screen and (min-aspect-ratio: 1/1) {
     #initial-login {
-        flex-direction: column;
+        width: 50vh;
     }
 }
 
